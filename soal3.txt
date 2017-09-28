@@ -1,0 +1,20 @@
+                                            Tugas no.3
+Di kerjakan Oleh :
+Nama  	   : Gilang sonia sakti
+Fakultas   : FTI
+Prodi 	   : Teknik Informatika
+---------------------------------------------
+program mencari_luas_persegi_panjang;
+
+uses crt;
+
+var
+	i,j:integer;
+begin
+	write('Masukkan Panjang : ');readln(i);
+	write('Masukkan Lebar : ');readln(j);
+	writeln('Luasnya adalah = ',i*j);
+readkey;
+
+
+end.
